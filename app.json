@@ -21,12 +21,12 @@
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
       "required": true,
-      "value": ""
+      "value": "Gifted~yCfyEzTP"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Number",
       "required": false,
-      "value": "254110853827"
+      "value": "2349074664307"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -36,7 +36,7 @@
      "WELCOME": {
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
@@ -51,12 +51,12 @@
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Put true if you want bot to show always online",
@@ -71,7 +71,7 @@
     "AUTO_BLOCK": {
       "description": "Put true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_REACT": {
       "description": "Put value to true or false",
@@ -91,12 +91,12 @@
      "DEPLOYMENT_PLATFORM": {
       "description": "Leave the value to default unless otherwise. ",
       "required": true,
-      "value": "heroku"
+      "value": "default"
     },
     "AUTO_REJECT_CALLS": {
       "description": "Put true if you want to reject call",
       "required": false,
-      "value": "false"
+      "value": "true"
      }
     },
     "formation": {
